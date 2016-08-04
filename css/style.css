@@ -1,0 +1,54 @@
+html, body {
+	margin:				0;
+	padding:			0;
+	width:				100%;
+	font-family:		Arial,Helvetica,sans-serif;
+	color:				#555;
+	font-size:			11pt;
+	background:			url('../img/bg.jpg') repeat-x scroll center top transparent;
+}
+
+h1 {
+	color:				#0099CC;
+	font-size:			28pt;
+	line-height:		100pt;
+	font-weight:		normal;
+	margin:				10pt;
+	display:			block;
+	text-align:			center;
+}
+
+h2 {
+	color:				#777;
+	font-size:			20pt;
+	line-height:		18pt;
+	font-weight:		normal;
+	margin:				10pt;
+	display:			block;
+	text-align:			center;
+}
+
+a {
+	color:				#0099CC;
+	text-decoration:	none;
+}
+
+a:hover {
+	color:				#FF6600;
+}
+
+q {
+	quotes:				"\00BB" "\00AB";
+}
+
+.block {
+	margin:				15pt auto;
+	margin-bottom:		40pt;
+	width:				300pt;
+	padding:			10pt;
+	text-align:			center;
+	border:				1pt solid #CCC;
+	border-radius:		5pt 5pt 5pt 5pt;
+	box-shadow:			0 0 5px #AAA;
+	background-color:	#FFF;
+}
