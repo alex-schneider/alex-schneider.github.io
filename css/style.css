@@ -44,7 +44,7 @@ q {
 .block {
 	margin:				15pt auto;
 	margin-bottom:		40pt;
-	width:				33%;
+	width:				450pt;
 	padding:			10pt;
 	text-align:			center;
 	border:				1pt solid #CCC;
@@ -54,5 +54,5 @@ q {
 }
 
 .list {
-	word-spacing:		3pt;
+	word-spacing:		5pt;
 }
