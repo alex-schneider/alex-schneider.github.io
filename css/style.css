@@ -4,13 +4,13 @@ html, body {
 	width:				100%;
 	font-family:		Arial,Helvetica,sans-serif;
 	color:				#555;
-	font-size:			11pt;
+	font-size:			100%;
 	background:			url('../img/bg.jpg') repeat-x scroll center top transparent;
 }
 
 h1 {
 	color:				#0099CC;
-	font-size:			28pt;
+	font-size:			250%;
 	line-height:		100pt;
 	font-weight:		normal;
 	margin:				10pt;
@@ -20,7 +20,7 @@ h1 {
 
 h2 {
 	color:				#777;
-	font-size:			20pt;
+	font-size:			175%;
 	line-height:		18pt;
 	font-weight:		normal;
 	margin:				10pt;
@@ -44,11 +44,15 @@ q {
 .block {
 	margin:				15pt auto;
 	margin-bottom:		40pt;
-	width:				350pt;
+	width:				33%;
 	padding:			10pt;
 	text-align:			center;
 	border:				1pt solid #CCC;
 	border-radius:		5pt 5pt 5pt 5pt;
 	box-shadow:			0 0 5px #AAA;
 	background-color:	#FFF;
+}
+
+.list {
+	word-spacing:		3pt;
 }
