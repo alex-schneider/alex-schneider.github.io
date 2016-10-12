@@ -31,8 +31,10 @@ h2 {
 }
 
 a {
+	display:			inline-block;
 	color:				#0099CC;
 	text-decoration:	none;
+	margin:				10pt 0;
 }
 
 a:hover {
@@ -57,4 +59,8 @@ q {
 
 .list {
 	word-spacing:		5pt;
+}
+
+.list .text {
+	word-spacing:		normal;
 }
